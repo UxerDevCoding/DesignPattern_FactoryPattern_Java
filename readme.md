@@ -1,6 +1,6 @@
 # Design Pattern - Factory Pattern
 
-Refactoring RockPaperScissors implementin factory pattern design and using Clean Arquitecture for organizing files.
+Refactoring RockPaperScissors implementing factory pattern design and using Clean Arquitecture for organizing files.
 
 ## Rules
 
